@@ -1,0 +1,361 @@
+eventDate,lifeStage,sex,organismQuantity,organismQuantityType
+1972,adult,males,-999,individuals
+1972,adult,females,-999,individuals
+1972,three years old,males,-999,individuals
+1972,three years old,females,-999,individuals
+1972,two years old,males,-999,individuals
+1972,two years old,females,-999,individuals
+1972,yearlings,unknown,0,individuals
+1972,calves,unknown,6,individuals
+1972,unknown,unknown,-999,individuals
+1973,adult,males,-999,individuals
+1973,adult,females,-999,individuals
+1973,three years old,males,-999,individuals
+1973,three years old,females,-999,individuals
+1973,two years old,males,-999,individuals
+1973,two years old,females,-999,individuals
+1973,yearlings,unknown,5,individuals
+1973,calves,unknown,4,individuals
+1973,unknown,unknown,-999,individuals
+1974,adult,males,-999,individuals
+1974,adult,females,-999,individuals
+1974,three years old,males,-999,individuals
+1974,three years old,females,-999,individuals
+1974,two years old,males,-999,individuals
+1974,two years old,females,-999,individuals
+1974,yearlings,unknown,2,individuals
+1974,calves,unknown,13,individuals
+1974,unknown,unknown,-999,individuals
+1975,adult,males,-999,individuals
+1975,adult,females,-999,individuals
+1975,three years old,males,-999,individuals
+1975,three years old,females,-999,individuals
+1975,two years old,males,-999,individuals
+1975,two years old,females,-999,individuals
+1975,yearlings,unknown,-999,individuals
+1975,calves,unknown,-999,individuals
+1975,unknown,unknown,-999,individuals
+1976,adult,males,-999,individuals
+1976,adult,females,-999,individuals
+1976,three years old,males,-999,individuals
+1976,three years old,females,-999,individuals
+1976,two years old,males,-999,individuals
+1976,two years old,females,-999,individuals
+1976,yearlings,unknown,-999,individuals
+1976,calves,unknown,-999,individuals
+1976,unknown,unknown,-999,individuals
+1977,adult,males,-999,individuals
+1977,adult,females,-999,individuals
+1977,three years old,males,-999,individuals
+1977,three years old,females,-999,individuals
+1977,two years old,males,-999,individuals
+1977,two years old,females,-999,individuals
+1977,yearlings,unknown,-999,individuals
+1977,calves,unknown,-999,individuals
+1977,unknown,unknown,-999,individuals
+1978,adult,males,-999,individuals
+1978,adult,females,-999,individuals
+1978,three years old,males,-999,individuals
+1978,three years old,females,-999,individuals
+1978,two years old,males,-999,individuals
+1978,two years old,females,-999,individuals
+1978,yearlings,unknown,-999,individuals
+1978,calves,unknown,-999,individuals
+1978,unknown,unknown,-999,individuals
+1979,adult,males,-999,individuals
+1979,adult,females,-999,individuals
+1979,three years old,males,-999,individuals
+1979,three years old,females,-999,individuals
+1979,two years old,males,-999,individuals
+1979,two years old,females,-999,individuals
+1979,yearlings,unknown,-999,individuals
+1979,calves,unknown,-999,individuals
+1979,unknown,unknown,-999,individuals
+1980,adult,males,-999,individuals
+1980,adult,females,-999,individuals
+1980,three years old,males,-999,individuals
+1980,three years old,females,-999,individuals
+1980,two years old,males,-999,individuals
+1980,two years old,females,-999,individuals
+1980,yearlings,unknown,-999,individuals
+1980,calves,unknown,-999,individuals
+1980,unknown,unknown,-999,individuals
+1981,adult,males,-999,individuals
+1981,adult,females,-999,individuals
+1981,three years old,males,-999,individuals
+1981,three years old,females,-999,individuals
+1981,two years old,males,-999,individuals
+1981,two years old,females,-999,individuals
+1981,yearlings,unknown,-999,individuals
+1981,calves,unknown,-999,individuals
+1981,unknown,unknown,-999,individuals
+1982,adult,males,-999,individuals
+1982,adult,females,-999,individuals
+1982,three years old,males,-999,individuals
+1982,three years old,females,-999,individuals
+1982,two years old,males,-999,individuals
+1982,two years old,females,-999,individuals
+1982,yearlings,unknown,-999,individuals
+1982,calves,unknown,-999,individuals
+1982,unknown,unknown,-999,individuals
+1983,adult,males,16,individuals
+1983,adult,females,43,individuals
+1983,three years old,males,24,individuals
+1983,three years old,females,34,individuals
+1983,two years old,males,17,individuals
+1983,two years old,females,21,individuals
+1983,yearlings,unknown,36,individuals
+1983,calves,unknown,43,individuals
+1983,unknown,unknown,0,individuals
+1984,adult,males,66,individuals
+1984,adult,females,69,individuals
+1984,three years old,males,22,individuals
+1984,three years old,females,27,individuals
+1984,two years old,males,15,individuals
+1984,two years old,females,21,individuals
+1984,yearlings,unknown,49,individuals
+1984,calves,unknown,72,individuals
+1984,unknown,unknown,0,individuals
+1985,adult,males,71,individuals
+1985,adult,females,92,individuals
+1985,three years old,males,14,individuals
+1985,three years old,females,39,individuals
+1985,two years old,males,18,individuals
+1985,two years old,females,24,individuals
+1985,yearlings,unknown,63,individuals
+1985,calves,unknown,98,individuals
+1985,unknown,unknown,0,individuals
+1986,adult,males,54,individuals
+1986,adult,females,116,individuals
+1986,three years old,males,20,individuals
+1986,three years old,females,33,individuals
+1986,two years old,males,13,individuals
+1986,two years old,females,21,individuals
+1986,yearlings,unknown,65,individuals
+1986,calves,unknown,55,individuals
+1986,unknown,unknown,6,individuals
+1987,adult,males,37,individuals
+1987,adult,females,105,individuals
+1987,three years old,males,16,individuals
+1987,three years old,females,28,individuals
+1987,two years old,males,24,individuals
+1987,two years old,females,23,individuals
+1987,yearlings,unknown,42,individuals
+1987,calves,unknown,64,individuals
+1987,unknown,unknown,0,individuals
+1988,adult,males,49,individuals
+1988,adult,females,80,individuals
+1988,three years old,males,15,individuals
+1988,three years old,females,38,individuals
+1988,two years old,males,23,individuals
+1988,two years old,females,22,individuals
+1988,yearlings,unknown,60,individuals
+1988,calves,unknown,84,individuals
+1988,unknown,unknown,0,individuals
+1989,adult,males,32,individuals
+1989,adult,females,81,individuals
+1989,three years old,males,16,individuals
+1989,three years old,females,31,individuals
+1989,two years old,males,17,individuals
+1989,two years old,females,19,individuals
+1989,yearlings,unknown,40,individuals
+1989,calves,unknown,44,individuals
+1989,unknown,unknown,0,individuals
+1990,adult,males,56,individuals
+1990,adult,females,111,individuals
+1990,three years old,males,21,individuals
+1990,three years old,females,24,individuals
+1990,two years old,males,21,individuals
+1990,two years old,females,21,individuals
+1990,yearlings,unknown,60,individuals
+1990,calves,unknown,58,individuals
+1990,unknown,unknown,0,individuals
+1991,adult,males,76,individuals
+1991,adult,females,144,individuals
+1991,three years old,males,22,individuals
+1991,three years old,females,35,individuals
+1991,two years old,males,18,individuals
+1991,two years old,females,31,individuals
+1991,yearlings,unknown,54,individuals
+1991,calves,unknown,95,individuals
+1991,unknown,unknown,0,individuals
+1992,adult,males,97,individuals
+1992,adult,females,167,individuals
+1992,three years old,males,22,individuals
+1992,three years old,females,24,individuals
+1992,two years old,males,22,individuals
+1992,two years old,females,23,individuals
+1992,yearlings,unknown,82,individuals
+1992,calves,unknown,82,individuals
+1992,unknown,unknown,0,individuals
+1993,adult,males,133,individuals
+1993,adult,females,211,individuals
+1993,three years old,males,21,individuals
+1993,three years old,females,37,individuals
+1993,two years old,males,38,individuals
+1993,two years old,females,29,individuals
+1993,yearlings,unknown,71,individuals
+1993,calves,unknown,147,individuals
+1993,unknown,unknown,0,individuals
+1994,adult,males,76,individuals
+1994,adult,females,120,individuals
+1994,three years old,males,16,individuals
+1994,three years old,females,28,individuals
+1994,two years old,males,21,individuals
+1994,two years old,females,30,individuals
+1994,yearlings,unknown,70,individuals
+1994,calves,unknown,71,individuals
+1994,unknown,unknown,0,individuals
+1995,adult,males,80,individuals
+1995,adult,females,113,individuals
+1995,three years old,males,19,individuals
+1995,three years old,females,28,individuals
+1995,two years old,males,27,individuals
+1995,two years old,females,24,individuals
+1995,yearlings,unknown,47,individuals
+1995,calves,unknown,47,individuals
+1995,unknown,unknown,0,individuals
+1996,adult,males,39,individuals
+1996,adult,females,82,individuals
+1996,three years old,males,11,individuals
+1996,three years old,females,16,individuals
+1996,two years old,males,15,individuals
+1996,two years old,females,13,individuals
+1996,yearlings,unknown,22,individuals
+1996,calves,unknown,41,individuals
+1996,unknown,unknown,0,individuals
+1997,adult,males,93,individuals
+1997,adult,females,174,individuals
+1997,three years old,males,29,individuals
+1997,three years old,females,19,individuals
+1997,two years old,males,20,individuals
+1997,two years old,females,23,individuals
+1997,yearlings,unknown,70,individuals
+1997,calves,unknown,54,individuals
+1997,unknown,unknown,0,individuals
+1998,adult,males,48,individuals
+1998,adult,females,119,individuals
+1998,three years old,males,12,individuals
+1998,three years old,females,13,individuals
+1998,two years old,males,21,individuals
+1998,two years old,females,21,individuals
+1998,yearlings,unknown,30,individuals
+1998,calves,unknown,44,individuals
+1998,unknown,unknown,0,individuals
+1999,adult,males,147,individuals
+1999,adult,females,213,individuals
+1999,three years old,males,15,individuals
+1999,three years old,females,10,individuals
+1999,two years old,males,28,individuals
+1999,two years old,females,18,individuals
+1999,yearlings,unknown,46,individuals
+1999,calves,unknown,68,individuals
+1999,unknown,unknown,40,individuals
+2000,adult,males,82,individuals
+2000,adult,females,186,individuals
+2000,three years old,males,30,individuals
+2000,three years old,females,17,individuals
+2000,two years old,males,15,individuals
+2000,two years old,females,19,individuals
+2000,yearlings,unknown,49,individuals
+2000,calves,unknown,62,individuals
+2000,unknown,unknown,2,individuals
+2001,adult,males,118,individuals
+2001,adult,females,180,individuals
+2001,three years old,males,20,individuals
+2001,three years old,females,10,individuals
+2001,two years old,males,41,individuals
+2001,two years old,females,19,individuals
+2001,yearlings,unknown,61,individuals
+2001,calves,unknown,67,individuals
+2001,unknown,unknown,10,individuals
+2002,adult,males,57,individuals
+2002,adult,females,129,individuals
+2002,three years old,males,23,individuals
+2002,three years old,females,13,individuals
+2002,two years old,males,25,individuals
+2002,two years old,females,19,individuals
+2002,yearlings,unknown,36,individuals
+2002,calves,unknown,55,individuals
+2002,unknown,unknown,30,individuals
+2003,adult,males,65,individuals
+2003,adult,females,82,individuals
+2003,three years old,males,11,individuals
+2003,three years old,females,8,individuals
+2003,two years old,males,18,individuals
+2003,two years old,females,9,individuals
+2003,yearlings,unknown,12,individuals
+2003,calves,unknown,48,individuals
+2003,unknown,unknown,7,individuals
+2004,adult,males,41,individuals
+2004,adult,females,92,individuals
+2004,three years old,males,9,individuals
+2004,three years old,females,4,individuals
+2004,two years old,males,10,individuals
+2004,two years old,females,6,individuals
+2004,yearlings,unknown,19,individuals
+2004,calves,unknown,35,individuals
+2004,unknown,unknown,3,individuals
+2005,adult,males,43,individuals
+2005,adult,females,83,individuals
+2005,three years old,males,7,individuals
+2005,three years old,females,5,individuals
+2005,two years old,males,6,individuals
+2005,two years old,females,8,individuals
+2005,yearlings,unknown,23,individuals
+2005,calves,unknown,42,individuals
+2005,unknown,unknown,12,individuals
+2006,adult,males,16,individuals
+2006,adult,females,48,individuals
+2006,three years old,males,5,individuals
+2006,three years old,females,8,individuals
+2006,two years old,males,12,individuals
+2006,two years old,females,7,individuals
+2006,yearlings,unknown,23,individuals
+2006,calves,unknown,14,individuals
+2006,unknown,unknown,0,individuals
+2007,adult,males,19,individuals
+2007,adult,females,54,individuals
+2007,three years old,males,9,individuals
+2007,three years old,females,0,individuals
+2007,two years old,males,10,individuals
+2007,two years old,females,10,individuals
+2007,yearlings,unknown,18,individuals
+2007,calves,unknown,11,individuals
+2007,unknown,unknown,0,individuals
+2008,adult,males,35,individuals
+2008,adult,females,88,individuals
+2008,three years old,males,10,individuals
+2008,three years old,females,0,individuals
+2008,two years old,males,9,individuals
+2008,two years old,females,9,individuals
+2008,yearlings,unknown,12,individuals
+2008,calves,unknown,37,individuals
+2008,unknown,unknown,0,individuals
+2009,adult,males,43,individuals
+2009,adult,females,82,individuals
+2009,three years old,males,5,individuals
+2009,three years old,females,0,individuals
+2009,two years old,males,6,individuals
+2009,two years old,females,6,individuals
+2009,yearlings,unknown,32,individuals
+2009,calves,unknown,-999,individuals
+2009,unknown,unknown,0,individuals
+2010,adult,males,22,individuals
+2010,adult,females,88,individuals
+2010,three years old,males,9,individuals
+2010,three years old,females,0,individuals
+2010,two years old,males,19,individuals
+2010,two years old,females,18,individuals
+2010,yearlings,unknown,31,individuals
+2010,calves,unknown,-999,individuals
+2010,unknown,unknown,0,individuals
+2011,adult,males,25,individuals
+2011,adult,females,78,individuals
+2011,three years old,males,12,individuals
+2011,three years old,females,0,individuals
+2011,two years old,males,14,individuals
+2011,two years old,females,13,individuals
+2011,yearlings,unknown,29,individuals
+2011,calves,unknown,-999,individuals
+2011,unknown,unknown,0,individuals
